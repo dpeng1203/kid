@@ -40,7 +40,7 @@ export default {
     methods: {
         getList() {
             // console.log(111222221)git 
-            // console.log(2222)
+            console.log(2222)
             let parms = {
                 opType: 105,
                 clCode: 0,
